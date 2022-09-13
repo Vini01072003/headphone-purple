@@ -2,7 +2,9 @@ body{
     height: 100vh;
     background-color: #76045d;
     display: grid;
-    grid-template-areas: "header" "main" "footer"
+    grid-template-areas: "header" "main" "footer";
+    grid-template-rows: 100px, 1fr, 100px;
+    padding-right: 100px;
 
 }
 
