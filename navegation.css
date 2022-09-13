@@ -1,0 +1,10 @@
+.navegation{
+
+height: 50px;
+width: 50px;
+background-color: #fff;
+font-size: 1.5rem;
+color: #76045d;
+display: grid;
+place-items: center;
+}
